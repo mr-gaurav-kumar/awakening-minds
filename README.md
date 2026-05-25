@@ -1,10 +1,9 @@
-# awakening-minds
-
-## Swami Vivekananda Tribute Website
+# Swami Vivekananda Tribute Website (awakening-minds)
 
 A simple and responsive tribute website dedicated to Swami Vivekananda built using HTML and CSS.
 This project presents the biography, teachings, and contributions of Swami Vivekananda in a clean and structured webpage format.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌟 Features
 Responsive tribute webpage
 Biography section
