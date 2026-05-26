@@ -43,14 +43,15 @@ Swami Vivekananda was an Indian Hindu monk, philosopher, spiritual leader, and c
 He played a major role in introducing Indian philosophies of Vedanta and Yoga to the Western world and inspired millions through his teachings and speeches.
 
 🔗 Reference
-Wikipedia -[ Swami Vivekananda]((https://en.wikipedia.org/wiki/Swami_Vivekananda))
+Wikipedia -[ Swami Vivekananda]([url](https://en.wikipedia.org/wiki/Swami_Vivekananda))
 
 
 👨‍💻 Author
 
 Gaurav
 
-GitHub Profile: Add your GitHub profile link here.
+GitHub Profile: [Add your GitHub profile link here.
+](https://github.com/mr-gaurav-kumar)
 
 📜 License
 
